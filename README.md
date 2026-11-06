@@ -1,6 +1,10 @@
 
 # Consulting PPT Skills
 <img width="916" height="1717" alt="exec-04372848-560b-42fc-9128-65217f306874" src="https://github.com/user-attachments/assets/d5e46a67-fb4b-4653-8540-c390f309e4ce" />
+<img width="1672" height="941" alt="exec-321736ab-a30b-4abf-9dc8-af732eb98126" src="https://github.com/user-attachments/assets/93cdb045-115d-4608-aed2-e6c58f37e4d1" />
+<img width="1672" height="941" alt="exec-a29897e1-20ea-407e-b526-496bf53f22fd" src="https://github.com/user-attachments/assets/f7e71921-9bae-4ff5-a82b-3a18f2b802d7" />
+<img width="1672" height="941" alt="exec-f612a978-8b23-41f0-8a7a-15d6cadc5dfa" src="https://github.com/user-attachments/assets/af681893-6384-4600-acf7-a4706ff4c038" />
+
 
 中文咨询风PPT策划与GPT Image图片制作技能集，当前参考风格为麦肯锡。
 它覆盖从内容策划到图片生成的主要环节：
