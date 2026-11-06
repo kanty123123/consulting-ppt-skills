@@ -1,5 +1,6 @@
-![Uploading exec-04372848-560b-42fc-9128-65217f306874.png…]()
+
 # Consulting PPT Skills
+<img width="916" height="1717" alt="exec-04372848-560b-42fc-9128-65217f306874" src="https://github.com/user-attachments/assets/d5e46a67-fb4b-4653-8540-c390f309e4ce" />
 
 中文咨询风PPT策划与GPT Image图片制作技能集，当前参考风格为麦肯锡。
 它覆盖从内容策划到图片生成的主要环节：
