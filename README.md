@@ -1,3 +1,4 @@
+![Uploading exec-04372848-560b-42fc-9128-65217f306874.png…]()
 # Consulting PPT Skills
 
 中文咨询风PPT策划与GPT Image图片制作技能集，当前参考风格为麦肯锡。
